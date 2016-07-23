@@ -1,2 +1,4 @@
-# estudo
-Estudo de diversas linguagens
+# Estudo de Linguagens
+Estudo de diversas linguagens!
+
+
